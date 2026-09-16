@@ -7,8 +7,8 @@
    "email": "neonventura@gmail.com",
    "pagina": "/telefonia/",
    "criado": "2026-09-16T10:58:55.189Z",
-   "status": "aberta",
-   "encerradaPor": null,
+   "status": "encerrada",
+   "encerradaPor": "cliente",
    "vistoAtendente": 2,
    "mensagens": [
     {
@@ -22,10 +22,16 @@
      "de": "atendente",
      "texto": "Olá, João! Para 5 ramais fica R$ 149,90 por mês.",
      "quando": "2026-09-16T10:59:01.148Z"
+    },
+    {
+     "n": 3,
+     "de": "sistema",
+     "texto": "Conversa encerrada por João Teste.",
+     "quando": "2026-09-16T10:59:12.619Z"
     }
    ],
-   "ultima": "2026-09-16T10:59:01.148Z",
-   "ultimaDe": "atendente",
+   "ultima": "2026-09-16T10:59:12.619Z",
+   "ultimaDe": "sistema",
    "avisoEmail": "2026-09-16T10:58:55.499Z",
    "avisoEmailErro": null
   },
