@@ -1,6 +1,29 @@
 {
  "conversas": [
   {
+   "id": "mu3zf0ps-84267e",
+   "segredo": "f1124275c4d818a3b821e18c",
+   "nome": "Maria Teste",
+   "email": "neonventura@gmail.com",
+   "pagina": "/internet/",
+   "criado": "2026-09-16T10:52:46.048Z",
+   "status": "aberta",
+   "encerradaPor": null,
+   "vistoAtendente": 0,
+   "mensagens": [
+    {
+     "n": 1,
+     "de": "cliente",
+     "texto": "Olá! Vocês atendem em Sorocaba?",
+     "quando": "2026-09-16T10:52:46.048Z"
+    }
+   ],
+   "ultima": "2026-09-16T10:52:46.048Z",
+   "ultimaDe": "cliente",
+   "avisoEmail": "2026-09-16T10:52:46.235Z",
+   "avisoEmailErro": null
+  },
+  {
    "id": "mu3zdeyj-ba508e",
    "segredo": "348cc38dec2eb5b1fb908a73",
    "nome": "Teste Neon",
