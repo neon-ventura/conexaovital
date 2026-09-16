@@ -22,10 +22,16 @@
      "de": "atendente",
      "texto": "Ol�! O plano de 500 mega sai por R$ 99,90.",
      "quando": "2026-09-16T10:51:34.799Z"
+    },
+    {
+     "n": 3,
+     "de": "cliente",
+     "texto": "�timo, e a instala��o?",
+     "quando": "2026-09-16T10:51:36.329Z"
     }
    ],
-   "ultima": "2026-09-16T10:51:34.799Z",
-   "ultimaDe": "atendente",
+   "ultima": "2026-09-16T10:51:36.329Z",
+   "ultimaDe": "cliente",
    "avisoEmail": "2026-09-16T10:51:31.473Z",
    "avisoEmailErro": null
   }
