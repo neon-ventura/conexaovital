@@ -1,0 +1,27 @@
+{
+ "conversas": [
+  {
+   "id": "mu3zdeyj-ba508e",
+   "segredo": "348cc38dec2eb5b1fb908a73",
+   "nome": "Teste Neon",
+   "email": "neonventura@gmail.com",
+   "pagina": "/internet/",
+   "criado": "2026-09-16T10:51:31.195Z",
+   "status": "aberta",
+   "encerradaPor": null,
+   "vistoAtendente": 0,
+   "mensagens": [
+    {
+     "n": 1,
+     "de": "cliente",
+     "texto": "Ol�, quero saber o pre�o do plano de 500 mega.",
+     "quando": "2026-09-16T10:51:31.198Z"
+    }
+   ],
+   "ultima": "2026-09-16T10:51:31.198Z",
+   "ultimaDe": "cliente",
+   "avisoEmail": "2026-09-16T10:51:31.473Z",
+   "avisoEmailErro": null
+  }
+ ]
+}
