@@ -9,17 +9,23 @@
    "criado": "2026-09-16T10:52:46.048Z",
    "status": "aberta",
    "encerradaPor": null,
-   "vistoAtendente": 1,
+   "vistoAtendente": 2,
    "mensagens": [
     {
      "n": 1,
      "de": "cliente",
      "texto": "Olá! Vocês atendem em Sorocaba?",
      "quando": "2026-09-16T10:52:46.048Z"
+    },
+    {
+     "n": 2,
+     "de": "atendente",
+     "texto": "Olá, Maria! Sim, atendemos Sorocaba e região.",
+     "quando": "2026-09-16T10:52:57.519Z"
     }
    ],
-   "ultima": "2026-09-16T10:52:46.048Z",
-   "ultimaDe": "cliente",
+   "ultima": "2026-09-16T10:52:57.519Z",
+   "ultimaDe": "atendente",
    "avisoEmail": "2026-09-16T10:52:46.235Z",
    "avisoEmailErro": null
   },
