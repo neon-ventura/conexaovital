@@ -22,10 +22,16 @@
      "de": "atendente",
      "texto": "Olá, Maria! Sim, atendemos Sorocaba e região.",
      "quando": "2026-09-16T10:52:57.519Z"
+    },
+    {
+     "n": 3,
+     "de": "cliente",
+     "texto": "Que ótimo, qual o valor do plano de 500 mega?",
+     "quando": "2026-09-16T10:53:00.322Z"
     }
    ],
-   "ultima": "2026-09-16T10:52:57.519Z",
-   "ultimaDe": "atendente",
+   "ultima": "2026-09-16T10:53:00.322Z",
+   "ultimaDe": "cliente",
    "avisoEmail": "2026-09-16T10:52:46.235Z",
    "avisoEmailErro": null
   },
