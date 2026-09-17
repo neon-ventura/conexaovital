@@ -22,9 +22,15 @@
      "de": "cliente",
      "texto": "Oi tudo bem?",
      "quando": "2026-09-17T13:44:06.647Z"
+    },
+    {
+     "n": 3,
+     "de": "cliente",
+     "texto": "oi",
+     "quando": "2026-09-17T13:46:18.166Z"
     }
    ],
-   "ultima": "2026-09-17T13:44:06.647Z",
+   "ultima": "2026-09-17T13:46:18.166Z",
    "ultimaDe": "cliente",
    "avisoEmail": "2026-09-17T13:43:52.535Z",
    "avisoEmailErro": null
