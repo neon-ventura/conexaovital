@@ -1,3 +1,27 @@
 {
- "conversas": []
+ "conversas": [
+  {
+   "id": "mu5kywe2-b993c4",
+   "segredo": "abf2e6937321874d33533af0",
+   "nome": "pontes",
+   "email": "aguinaldopontes1@hotmail.com",
+   "pagina": "/",
+   "criado": "2026-09-17T13:43:51.674Z",
+   "status": "aberta",
+   "encerradaPor": null,
+   "vistoAtendente": 0,
+   "mensagens": [
+    {
+     "n": 1,
+     "de": "cliente",
+     "texto": "Olá, bom dia. Tudo bem?",
+     "quando": "2026-09-17T13:43:51.676Z"
+    }
+   ],
+   "ultima": "2026-09-17T13:43:51.676Z",
+   "ultimaDe": "cliente",
+   "avisoEmail": "2026-09-17T13:43:52.535Z",
+   "avisoEmailErro": null
+  }
+ ]
 }
